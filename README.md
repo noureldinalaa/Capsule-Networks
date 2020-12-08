@@ -5,6 +5,7 @@
 
 # Capsule-Networks
 In this repository I will Simply explain and implement Capsule Networks on MNIST dataset using Pytorch.
+For more explanation please check [my blog post](https://noureldinalaa.github.io/capsuleNetwork/) 
 
 
 ## what are capsules?
@@ -27,13 +28,35 @@ The capsule network is consisting of two main parts:
 
 ![Encoder][image2]
 
-For more explanation please check my blog post:
-
-
 
 ## Reconstructed output on test dataset
 
 ![Reconstracted image][image1]
+
+
+
+## Project Instructions
+
+### Instructions
+
+1. Clone the repository and navigate to the downloaded folder.
+	
+	```	
+		git clone https://github.com/noureldinalaa/Capsule-Networks/
+		cd Capsule-Networks 
+
+2. Install packages like pytorch and torch vision and some pip packages in requirements text file :
+	```
+		conda install pytorch torchvision -c pytorch
+            pip install -r requirements.txt
+	```
+3. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
+
+	
+	```
+		jupyter notebook Capsule network.ipynb
+	```
+
 
 
 ## References
