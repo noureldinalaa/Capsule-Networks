@@ -27,12 +27,20 @@ The capsule network is consisting of two main parts:
 
 ![Encoder][image2]
 
+For more explanation please check my blog post:
 
-## Reconstracted output on test data
+
+
+## Reconstructed output on test dataset
 
 ![Reconstracted image][image1]
 
 
-
+## References
+1. https://arxiv.org/pdf/1710.09829.pdf
+2. https://cezannec.github.io/Capsule_Networks/
+3. https://kndrck.co/posts/capsule_networks_explained/
+4. https://github.com/cezannec/capsule_net_pytorch/blob/master/Capsule_Network.ipynb
+5. https://www.youtube.com/watch?v=1dIEyZuZui0
 
 
