@@ -4,7 +4,7 @@
 [image2]: ./images/encoder_architecture.png "Encoder"
 
 # Capsule-Networks
-In this repository I will Simply explain and implement Capsule Networks on MNIST dataset using Pytorch.
+In this repository I will simply explain and implement Capsule Networks on MNIST dataset using Pytorch.
 For more explanation please check [my blog post](https://noureldinalaa.github.io/capsuleNetwork/) 
 
 
